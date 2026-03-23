@@ -1,0 +1,6 @@
+Problem Statement 1: Conversational Evaluation API
+Scenario: Imagine you work for a company that leverages conversational data to understand how individuals perceive themselves and how these perceptions evolve over time. These conversations come from one-on-one conversations between a user and a generative agent (StoryBot). The evolving identity signal drives personalization and recommendation systems.
+
+Task: Develop a REST API endpoint in Python to evaluate the content of conversations and determine what the user believes about themselves or a topic. The endpoint should accept raw conversation data as JSON objects (includes the message and metadata). Consider
+feature extraction and apply one or more machine learning models. You may use pre-trained models (e.g., from Hugging Face) or build a lightweight model yourself. The output should be in a clear format that can be consumed by different teams to understand the user’s evolving beliefs about themselves or different topics (e.g., a team assigning value to conversations, a team developing StoryBot, or a team recommending content in the community). As part of your solution, provide a brief README outlining how to set up and
+run your API, along with instructions for testing the endpoint.

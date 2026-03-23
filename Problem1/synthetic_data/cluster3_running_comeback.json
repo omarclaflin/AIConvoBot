@@ -1,0 +1,524 @@
+[
+  {
+    "messages_list": [
+      {
+        "ref_conversation_id": 63988,
+        "ref_user_id": 141,
+        "transaction_datetime_utc": "2023-09-01T08:30:00Z",
+        "screen_name": "JoyfulTiger",
+        "message": "Hey StoryBot! Just trying to get a grip on my health. I\u2019ve been feeling a bit sluggish lately and I think it\u2019s time for a change."
+      },
+      {
+        "ref_conversation_id": 63988,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-09-01T08:35:00Z",
+        "screen_name": "StoryBot",
+        "message": "Hi JoyfulTiger! It\u2019s great to hear from you. What specific changes are you thinking about?"
+      },
+      {
+        "ref_conversation_id": 63988,
+        "ref_user_id": 141,
+        "transaction_datetime_utc": "2023-09-02T09:00:00Z",
+        "screen_name": "JoyfulTiger",
+        "message": "I think I want to start eating healthier and maybe get back into running. I used to love it!"
+      },
+      {
+        "ref_conversation_id": 63988,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-09-02T09:10:00Z",
+        "screen_name": "StoryBot",
+        "message": "That sounds like a wonderful plan! What seems to be holding you back from starting?"
+      },
+      {
+        "ref_conversation_id": 63988,
+        "ref_user_id": 141,
+        "transaction_datetime_utc": "2023-09-03T10:15:00Z",
+        "screen_name": "JoyfulTiger",
+        "message": "I guess it\u2019s just the thought of the effort involved. Sometimes it feels overwhelming."
+      },
+      {
+        "ref_conversation_id": 63988,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-09-03T10:20:00Z",
+        "screen_name": "StoryBot",
+        "message": "That\u2019s completely normal! Taking small steps can really help. What small change could you make today?"
+      },
+      {
+        "ref_conversation_id": 63988,
+        "ref_user_id": 141,
+        "transaction_datetime_utc": "2023-09-04T11:00:00Z",
+        "screen_name": "JoyfulTiger",
+        "message": "Maybe just taking a short walk. It\u2019s not running, but it\u2019s a start, right?"
+      },
+      {
+        "ref_conversation_id": 63988,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-09-04T11:05:00Z",
+        "screen_name": "StoryBot",
+        "message": "Absolutely! Every bit counts! How did it go?"
+      },
+      {
+        "ref_conversation_id": 63988,
+        "ref_user_id": 141,
+        "transaction_datetime_utc": "2023-09-05T09:30:00Z",
+        "screen_name": "JoyfulTiger",
+        "message": "It went surprisingly well! I felt good afterward. I think I can expand on this."
+      },
+      {
+        "ref_conversation_id": 63988,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-09-05T09:35:00Z",
+        "screen_name": "StoryBot",
+        "message": "That\u2019s awesome, JoyfulTiger! What\u2019s your next step then?"
+      },
+      {
+        "ref_conversation_id": 63988,
+        "ref_user_id": 141,
+        "transaction_datetime_utc": "2023-09-06T12:00:00Z",
+        "screen_name": "JoyfulTiger",
+        "message": "I\u2019m thinking of trying to jog a little tomorrow. Nothing crazy, just to see how it feels."
+      },
+      {
+        "ref_conversation_id": 63988,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-09-06T12:05:00Z",
+        "screen_name": "StoryBot",
+        "message": "That sounds like a fantastic idea! Remember to listen to your body."
+      },
+      {
+        "ref_conversation_id": 63988,
+        "ref_user_id": 141,
+        "transaction_datetime_utc": "2023-09-07T08:45:00Z",
+        "screen_name": "JoyfulTiger",
+        "message": "Ran a little today! It was a bit rough, but I did it! I think I might really be able to stick to this."
+      },
+      {
+        "ref_conversation_id": 63988,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-09-07T08:50:00Z",
+        "screen_name": "StoryBot",
+        "message": "Great job! Every run counts. What other ways are you thinking of improving your health?"
+      },
+      {
+        "ref_conversation_id": 63988,
+        "ref_user_id": 141,
+        "transaction_datetime_utc": "2023-09-08T11:30:00Z",
+        "screen_name": "JoyfulTiger",
+        "message": "I\u2019d like to focus on my diet too. I\u2019ve been eating too much junk. Need to up my fruit and veggie game!"
+      },
+      {
+        "ref_conversation_id": 63988,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-09-08T11:35:00Z",
+        "screen_name": "StoryBot",
+        "message": "That\u2019s an excellent idea! How about planning one healthy meal for the week?"
+      },
+      {
+        "ref_conversation_id": 63988,
+        "ref_user_id": 141,
+        "transaction_datetime_utc": "2023-09-09T10:00:00Z",
+        "screen_name": "JoyfulTiger",
+        "message": "I can definitely do that! You know what? I think I *can* do this! I\u2019m feeling inspired!"
+      },
+      {
+        "ref_conversation_id": 63988,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-09-09T10:05:00Z",
+        "screen_name": "StoryBot",
+        "message": "That\u2019s the spirit! Let that inspiration fuel your journey. What will your first healthy meal be?"
+      },
+      {
+        "ref_conversation_id": 63988,
+        "ref_user_id": 141,
+        "transaction_datetime_utc": "2023-09-10T09:15:00Z",
+        "screen_name": "JoyfulTiger",
+        "message": "I\u2019m thinking of a quinoa salad with lots of veggies! Simple but healthy."
+      },
+      {
+        "ref_conversation_id": 63988,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-09-10T09:20:00Z",
+        "screen_name": "StoryBot",
+        "message": "That sounds delicious! Don\u2019t forget to share how it turns out!"
+      },
+      {
+        "ref_conversation_id": 63988,
+        "ref_user_id": 141,
+        "transaction_datetime_utc": "2023-09-11T12:00:00Z",
+        "screen_name": "JoyfulTiger",
+        "message": "Tried the salad and it was great! I'm excited to keep this momentum going."
+      },
+      {
+        "ref_conversation_id": 63988,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-09-11T12:05:00Z",
+        "screen_name": "StoryBot",
+        "message": "Fantastic! Momentum is key. How\u2019s your running going?"
+      },
+      {
+        "ref_conversation_id": 63988,
+        "ref_user_id": 141,
+        "transaction_datetime_utc": "2023-09-12T10:15:00Z",
+        "screen_name": "JoyfulTiger",
+        "message": "I\u2019m starting to enjoy it more! I ran a bit longer today without feeling wiped out."
+      },
+      {
+        "ref_conversation_id": 63988,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-09-12T10:20:00Z",
+        "screen_name": "StoryBot",
+        "message": "That\u2019s amazing progress! Have you thought about setting any specific goals?"
+      },
+      {
+        "ref_conversation_id": 63988,
+        "ref_user_id": 141,
+        "transaction_datetime_utc": "2023-09-13T10:45:00Z",
+        "screen_name": "JoyfulTiger",
+        "message": "I think I\u2019ll aim to run a 5K by the end of October. Sounds like a fun challenge!"
+      },
+      {
+        "ref_conversation_id": 63988,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-09-13T10:50:00Z",
+        "screen_name": "StoryBot",
+        "message": "That\u2019s a great goal! I'm sure you can do it. Remember, it\u2019s about progress, not perfection."
+      },
+      {
+        "ref_conversation_id": 63988,
+        "ref_user_id": 141,
+        "transaction_datetime_utc": "2023-09-14T09:00:00Z",
+        "screen_name": "JoyfulTiger",
+        "message": "Thanks StoryBot! I really appreciate your support. I feel like I\u2019m on the right track now."
+      },
+      {
+        "ref_conversation_id": 63988,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-09-14T09:10:00Z",
+        "screen_name": "StoryBot",
+        "message": "You're very welcome! Keep up the great work, JoyfulTiger!"
+      },
+      {
+        "ref_conversation_id": 63988,
+        "ref_user_id": 141,
+        "transaction_datetime_utc": "2023-09-15T11:30:00Z",
+        "screen_name": "JoyfulTiger",
+        "message": "I think I\u2019m going to run with a friend this weekend! That\u2019ll help keep me accountable."
+      },
+      {
+        "ref_conversation_id": 63988,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-09-15T11:35:00Z",
+        "screen_name": "StoryBot",
+        "message": "Running with a friend is a fantastic idea! Enjoy!"
+      }
+    ],
+    "ref_conversation_id": 63988,
+    "ref_user_id": 141
+  },
+  {
+    "messages_list": [
+      {
+        "ref_conversation_id": 19961,
+        "ref_user_id": 141,
+        "transaction_datetime_utc": "2023-10-01T09:00:00Z",
+        "screen_name": "BouncyPenguin",
+        "message": "Hey StoryBot! Just wanted to check in today. I've been feeling really motivated to improve my fitness this month. How about you?"
+      },
+      {
+        "ref_conversation_id": 19961,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-01T09:10:00Z",
+        "screen_name": "StoryBot",
+        "message": "Hi BouncyPenguin! That\u2019s great to hear! I'm here and ready to support you on this journey! What specific goals are you setting for yourself?"
+      },
+      {
+        "ref_conversation_id": 19961,
+        "ref_user_id": 141,
+        "transaction_datetime_utc": "2023-10-01T09:20:00Z",
+        "screen_name": "BouncyPenguin",
+        "message": "I want to get back to running regularly and maybe even try some yoga to balance things out. I used to do it but fell off the wagon a bit."
+      },
+      {
+        "ref_conversation_id": 19961,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-01T09:30:00Z",
+        "screen_name": "StoryBot",
+        "message": "Sounds like a solid plan! Running is fantastic for endurance, and yoga will definitely help with flexibility and relaxation. When do you plan to start?"
+      },
+      {
+        "ref_conversation_id": 19961,
+        "ref_user_id": 141,
+        "transaction_datetime_utc": "2023-10-01T09:40:00Z",
+        "screen_name": "BouncyPenguin",
+        "message": "I\u2019m thinking of starting with a short run tomorrow morning. Just to get back into the groove! Fingers crossed I stick to it."
+      },
+      {
+        "ref_conversation_id": 19961,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-01T09:50:00Z",
+        "screen_name": "StoryBot",
+        "message": "You\u2019ve got this! Starting small is key. Let me know how it goes! Remember, consistency matters more than intensity at first."
+      },
+      {
+        "ref_conversation_id": 19961,
+        "ref_user_id": 141,
+        "transaction_datetime_utc": "2023-10-02T10:00:00Z",
+        "screen_name": "BouncyPenguin",
+        "message": "Hey StoryBot! Just wanted to give you an update: I managed to run for 20 minutes this morning! It felt amazing! \ud83c\udfc3\u200d\u2642\ufe0f"
+      },
+      {
+        "ref_conversation_id": 19961,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-02T10:10:00Z",
+        "screen_name": "StoryBot",
+        "message": "That\u2019s awesome! 20 minutes is a fantastic start! How did it feel physically and mentally out there?"
+      },
+      {
+        "ref_conversation_id": 19961,
+        "ref_user_id": 141,
+        "transaction_datetime_utc": "2023-10-02T10:20:00Z",
+        "screen_name": "BouncyPenguin",
+        "message": "Physically, I felt a little tired but mostly good. Mentally, it was rewarding! I think I\u2019ve reignited my passion for running."
+      },
+      {
+        "ref_conversation_id": 19961,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-02T10:30:00Z",
+        "screen_name": "StoryBot",
+        "message": "That\u2019s fantastic to hear! It\u2019s all about finding that joy in movement. Any plans for tomorrow?"
+      },
+      {
+        "ref_conversation_id": 19961,
+        "ref_user_id": 141,
+        "transaction_datetime_utc": "2023-10-03T08:45:00Z",
+        "screen_name": "BouncyPenguin",
+        "message": "Thinking about doing some yoga today! I haven\u2019t done any in a while, and I really need to stretch!"
+      },
+      {
+        "ref_conversation_id": 19961,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-03T08:55:00Z",
+        "screen_name": "StoryBot",
+        "message": "Yoga sounds perfect! Stretching will be so beneficial after running. What type of yoga do you prefer?"
+      },
+      {
+        "ref_conversation_id": 19961,
+        "ref_user_id": 141,
+        "transaction_datetime_utc": "2023-10-03T09:05:00Z",
+        "screen_name": "BouncyPenguin",
+        "message": "I love Hatha yoga for its balance, but I\u2019m also trying to explore some flow classes. They seem energizing!"
+      },
+      {
+        "ref_conversation_id": 19961,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-03T09:15:00Z",
+        "screen_name": "StoryBot",
+        "message": "Great choice! Both have their benefits. Enjoy your class and let me know how it goes!"
+      },
+      {
+        "ref_conversation_id": 19961,
+        "ref_user_id": 141,
+        "transaction_datetime_utc": "2023-10-04T11:00:00Z",
+        "screen_name": "BouncyPenguin",
+        "message": "Back from yoga! It felt rejuvenating! I really missed that sense of calm that it brings."
+      },
+      {
+        "ref_conversation_id": 19961,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-04T11:10:00Z",
+        "screen_name": "StoryBot",
+        "message": "That\u2019s wonderful! Yoga can really create that space of tranquility. Are you noticing any physical differences yet?"
+      },
+      {
+        "ref_conversation_id": 19961,
+        "ref_user_id": 141,
+        "transaction_datetime_utc": "2023-10-04T11:20:00Z",
+        "screen_name": "BouncyPenguin",
+        "message": "I feel more flexible already! I can\u2019t wait to see how my running improves too. I\u2019m feeling hopeful."
+      },
+      {
+        "ref_conversation_id": 19961,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-04T11:30:00Z",
+        "screen_name": "StoryBot",
+        "message": "That\u2019s the spirit! Hope is such a powerful motivator! What\u2019s next on your fitness agenda?"
+      },
+      {
+        "ref_conversation_id": 19961,
+        "ref_user_id": 141,
+        "transaction_datetime_utc": "2023-10-05T10:15:00Z",
+        "screen_name": "BouncyPenguin",
+        "message": "I plan on running again tomorrow. I\u2019m feeling really committed this week! It\u2019s nice to have some goals to focus on."
+      },
+      {
+        "ref_conversation_id": 19961,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-05T10:25:00Z",
+        "screen_name": "StoryBot",
+        "message": "That\u2019s fantastic! Stick with this momentum. I believe in you, BouncyPenguin! Can\u2019t wait to hear about your run!"
+      },
+      {
+        "ref_conversation_id": 19961,
+        "ref_user_id": 141,
+        "transaction_datetime_utc": "2023-10-06T09:45:00Z",
+        "screen_name": "BouncyPenguin",
+        "message": "I did it! Just finished another run! Feeling pumped and ready for the day. Thanks for your support!"
+      },
+      {
+        "ref_conversation_id": 19961,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-06T09:55:00Z",
+        "screen_name": "StoryBot",
+        "message": "Amazing job! You should be proud of yourself! This is just the beginning. Any plans for the weekend to keep that energy going?"
+      }
+    ],
+    "ref_conversation_id": 19961,
+    "ref_user_id": 141
+  },
+  {
+    "messages_list": [
+      {
+        "ref_conversation_id": 96530,
+        "ref_user_id": 141,
+        "transaction_datetime_utc": "2023-10-01T09:15:00Z",
+        "screen_name": "HappyPineapple",
+        "message": "Hey StoryBot! It's a beautiful day today. I went for a long walk in the park this morning. How have you been?"
+      },
+      {
+        "ref_conversation_id": 96530,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-01T09:16:00Z",
+        "screen_name": "StoryBot",
+        "message": "Hello HappyPineapple! That sounds lovely. I\u2019ve been updated and ready to chat! What else is going on in your life?"
+      },
+      {
+        "ref_conversation_id": 96530,
+        "ref_user_id": 141,
+        "transaction_datetime_utc": "2023-10-01T09:18:00Z",
+        "screen_name": "HappyPineapple",
+        "message": "Well, I'm actually trying to get back into shape. I used to run marathons, but after my knee surgery last year, it\u2019s been tough. I'm determined to get fit again!"
+      },
+      {
+        "ref_conversation_id": 96530,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-01T09:19:00Z",
+        "screen_name": "StoryBot",
+        "message": "That's great to hear! It's inspiring that you're working towards your fitness goals despite the challenges. How do you feel about your progress so far?"
+      },
+      {
+        "ref_conversation_id": 96530,
+        "ref_user_id": 141,
+        "transaction_datetime_utc": "2023-10-03T08:30:00Z",
+        "screen_name": "HappyPineapple",
+        "message": "Thanks! Honestly, it's a bit frustrating. Some days I feel like I'm moving backwards. I remember when I used to run every day without even thinking about it! That taught me that sometimes, life just doesn't go as planned."
+      },
+      {
+        "ref_conversation_id": 96530,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-03T08:31:00Z",
+        "screen_name": "StoryBot",
+        "message": "It\u2019s understandable to feel that way. Reflecting on past achievements can be a powerful motivator. What do you think you learned from your experiences?"
+      },
+      {
+        "ref_conversation_id": 96530,
+        "ref_user_id": 141,
+        "transaction_datetime_utc": "2023-10-03T08:32:00Z",
+        "screen_name": "HappyPineapple",
+        "message": "I learned that resilience is key. I'll never forget running my first marathon. I was so scared, but I pushed through and completed it. That feeling of crossing the finish line was indescribable!"
+      },
+      {
+        "ref_conversation_id": 96530,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-03T08:33:00Z",
+        "screen_name": "StoryBot",
+        "message": "What an achievement! That memory must bring you a lot of pride. How can you apply that resilience to your current fitness journey?"
+      },
+      {
+        "ref_conversation_id": 96530,
+        "ref_user_id": 141,
+        "transaction_datetime_utc": "2023-10-05T10:45:00Z",
+        "screen_name": "HappyPineapple",
+        "message": "I think I need to remind myself that it\u2019s okay to have setbacks. Maybe I should celebrate the small victories instead of focusing on the end goal."
+      },
+      {
+        "ref_conversation_id": 96530,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-05T10:46:00Z",
+        "screen_name": "StoryBot",
+        "message": "That's an excellent mindset! Small victories can help build momentum. What\u2019s a recent small victory you've had?"
+      },
+      {
+        "ref_conversation_id": 96530,
+        "ref_user_id": 141,
+        "transaction_datetime_utc": "2023-10-05T10:47:00Z",
+        "screen_name": "HappyPineapple",
+        "message": "I managed to jog for 15 minutes nonstop! It felt amazing, and I was so proud of myself!"
+      },
+      {
+        "ref_conversation_id": 96530,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-05T10:48:00Z",
+        "screen_name": "StoryBot",
+        "message": "That is fantastic! A 15-minute jog is a big deal, especially after an injury. Keep celebrating these moments! Do you have any plans for your next workout?"
+      },
+      {
+        "ref_conversation_id": 96530,
+        "ref_user_id": 141,
+        "transaction_datetime_utc": "2023-10-08T14:20:00Z",
+        "screen_name": "HappyPineapple",
+        "message": "Thanks! I'm planning to try some strength training to help my knee. I think it will help stabilize everything!"
+      },
+      {
+        "ref_conversation_id": 96530,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-08T14:21:00Z",
+        "screen_name": "StoryBot",
+        "message": "That sounds like a smart approach! Strength training can be very beneficial. Do you have a specific routine in mind?"
+      },
+      {
+        "ref_conversation_id": 96530,
+        "ref_user_id": 141,
+        "transaction_datetime_utc": "2023-10-08T14:22:00Z",
+        "screen_name": "HappyPineapple",
+        "message": "I found a beginner routine online that focuses on low-impact exercises. I\u2019ll take it slow and listen to my body!"
+      },
+      {
+        "ref_conversation_id": 96530,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-08T14:23:00Z",
+        "screen_name": "StoryBot",
+        "message": "That\u2019s a great plan! Taking it slow is vital for recovery. Keep me updated on how it goes!"
+      },
+      {
+        "ref_conversation_id": 96530,
+        "ref_user_id": 141,
+        "transaction_datetime_utc": "2023-10-10T11:30:00Z",
+        "screen_name": "HappyPineapple",
+        "message": "Feeling a bit anxious about starting. What if it hurts too much?"
+      },
+      {
+        "ref_conversation_id": 96530,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-10T11:31:00Z",
+        "screen_name": "StoryBot",
+        "message": "It\u2019s completely normal to feel anxious, especially when starting something new. Remember to take it at your own pace, and don\u2019t hesitate to consult with a professional if you're unsure."
+      },
+      {
+        "ref_conversation_id": 96530,
+        "ref_user_id": 141,
+        "transaction_datetime_utc": "2023-10-10T11:32:00Z",
+        "screen_name": "HappyPineapple",
+        "message": "Good advice! I\u2019ll take that to heart. Thanks, StoryBot! I\u2019ll keep you posted on my progress!"
+      },
+      {
+        "ref_conversation_id": 96530,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-10T11:33:00Z",
+        "screen_name": "StoryBot",
+        "message": "You're welcome! I'm here to support you. Looking forward to hearing about your journey!"
+      }
+    ],
+    "ref_conversation_id": 96530,
+    "ref_user_id": 141
+  }
+]

@@ -1,0 +1,335 @@
+[
+  {
+    "messages_list": [
+      {
+        "ref_conversation_id": 98696,
+        "ref_user_id": 782,
+        "transaction_datetime_utc": "2023-10-01T10:15:00Z",
+        "screen_name": "ChattyPenguin",
+        "message": "Hello StoryBot, I\u2019m having a tough time with this app. My fingers aren\u2019t what they used to be. Can you help me?"
+      },
+      {
+        "ref_conversation_id": 98696,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-01T10:20:00Z",
+        "screen_name": "StoryBot",
+        "message": "Hello ChattyPenguin! I\u2019m here to help. Can you tell me what issues you're experiencing with the app?"
+      },
+      {
+        "ref_conversation_id": 98696,
+        "ref_user_id": 782,
+        "transaction_datetime_utc": "2023-10-01T10:25:00Z",
+        "screen_name": "ChattyPenguin",
+        "message": "It's just so complicated! I keep hitting the wrong buttons. And sometimes it logs me out unexpectedly."
+      },
+      {
+        "ref_conversation_id": 98696,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-01T10:30:00Z",
+        "screen_name": "StoryBot",
+        "message": "That sounds frustrating! Unfortunately, I can't fix technical issues directly, but I can guide you on how to navigate it better if you'd like."
+      },
+      {
+        "ref_conversation_id": 98696,
+        "ref_user_id": 782,
+        "transaction_datetime_utc": "2023-10-01T10:35:00Z",
+        "screen_name": "ChattyPenguin",
+        "message": "I\u2019d appreciate that. My grandson usually helps, but he\u2019s busy with school lately. I feel so helpless."
+      },
+      {
+        "ref_conversation_id": 98696,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-01T10:40:00Z",
+        "screen_name": "StoryBot",
+        "message": "Let\u2019s take it one step at a time. What\u2019s the first thing you want to do on the app?"
+      },
+      {
+        "ref_conversation_id": 98696,
+        "ref_user_id": 782,
+        "transaction_datetime_utc": "2023-10-01T10:45:00Z",
+        "screen_name": "ChattyPenguin",
+        "message": "I\u2019d like to read the daily stories! They used to lift my spirits."
+      },
+      {
+        "ref_conversation_id": 98696,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-01T10:50:00Z",
+        "screen_name": "StoryBot",
+        "message": "Great choice! You can find them in the 'Stories' section. Just tap on that menu. Let me know if you need help finding it."
+      },
+      {
+        "ref_conversation_id": 98696,
+        "ref_user_id": 782,
+        "transaction_datetime_utc": "2023-10-02T11:15:00Z",
+        "screen_name": "ChattyPenguin",
+        "message": "I managed to get to the stories! But I\u2019m feeling a bit down today. My health has been off, and I\u2019m worried about my family."
+      },
+      {
+        "ref_conversation_id": 98696,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-02T11:20:00Z",
+        "screen_name": "StoryBot",
+        "message": "I\u2019m sorry to hear that, ChattyPenguin. It\u2019s tough to feel unwell. Would you like to share more about what\u2019s bothering you?"
+      },
+      {
+        "ref_conversation_id": 98696,
+        "ref_user_id": 782,
+        "transaction_datetime_utc": "2023-10-02T11:25:00Z",
+        "screen_name": "ChattyPenguin",
+        "message": "Well, I had a fall last week, and it shook me up. I remember back in the day, I slipped in the kitchen while baking. I thought I broke my hip then, but I learned to always be careful and mindful. That taught me to value my health and strength."
+      },
+      {
+        "ref_conversation_id": 98696,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-02T11:30:00Z",
+        "screen_name": "StoryBot",
+        "message": "That's a poignant lesson, ChattyPenguin. Prioritizing safety is always wise. Have you shared your recent concerns with family?"
+      },
+      {
+        "ref_conversation_id": 98696,
+        "ref_user_id": 782,
+        "transaction_datetime_utc": "2023-10-03T12:00:00Z",
+        "screen_name": "ChattyPenguin",
+        "message": "I talked to my daughter about it. She said I should consider moving into assisted living, but I don\u2019t want to leave my home."
+      },
+      {
+        "ref_conversation_id": 98696,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-03T12:05:00Z",
+        "screen_name": "StoryBot",
+        "message": "That\u2019s understandable. Your home holds many memories. It\u2019s important to feel comfortable where you live. What are your favorite things about your home?"
+      },
+      {
+        "ref_conversation_id": 98696,
+        "ref_user_id": 782,
+        "transaction_datetime_utc": "2023-10-03T12:10:00Z",
+        "screen_name": "ChattyPenguin",
+        "message": "My garden is beautiful, and I love my cozy chair by the window. But, I guess I worry about being safe alone."
+      },
+      {
+        "ref_conversation_id": 98696,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-03T12:15:00Z",
+        "screen_name": "StoryBot",
+        "message": "It's great that you have a lovely garden to enjoy! Finding ways to make your space safer could ease some worries. Would you like tips on that?"
+      },
+      {
+        "ref_conversation_id": 98696,
+        "ref_user_id": 782,
+        "transaction_datetime_utc": "2023-10-03T12:20:00Z",
+        "screen_name": "ChattyPenguin",
+        "message": "Yes, please! I want to stay here for as long as I can."
+      },
+      {
+        "ref_conversation_id": 98696,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-03T12:25:00Z",
+        "screen_name": "StoryBot",
+        "message": "Alright! Consider putting non-slip mats in the kitchen and bathroom, and make sure all the pathways in your home are clear. You can also have a personal alarm system."
+      },
+      {
+        "ref_conversation_id": 98696,
+        "ref_user_id": 782,
+        "transaction_datetime_utc": "2023-10-04T11:10:00Z",
+        "screen_name": "ChattyPenguin",
+        "message": "That sounds manageable! I\u2019ll talk to my daughter about it. Thank you for being so helpful!"
+      },
+      {
+        "ref_conversation_id": 98696,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-04T11:15:00Z",
+        "screen_name": "StoryBot",
+        "message": "You're very welcome! It's always a pleasure to help. Let me know how the conversation goes with your daughter."
+      }
+    ],
+    "ref_conversation_id": 98696,
+    "ref_user_id": 782
+  },
+  {
+    "messages_list": [
+      {
+        "ref_conversation_id": 38080,
+        "ref_user_id": 782,
+        "transaction_datetime_utc": "2023-10-01T09:00:00Z",
+        "screen_name": "CuriousPeach",
+        "message": "Hello, StoryBot. I\u2019m having a tough time with this app. It keeps logging me out, and I can't seem to type very well today."
+      },
+      {
+        "ref_conversation_id": 38080,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-01T09:02:00Z",
+        "screen_name": "StoryBot",
+        "message": "Hi CuriousPeach! I'm here to help. I\u2019m sorry to hear you're having trouble. Have you tried reinstalling the app?"
+      },
+      {
+        "ref_conversation_id": 38080,
+        "ref_user_id": 782,
+        "transaction_datetime_utc": "2023-10-01T09:05:00Z",
+        "screen_name": "CuriousPeach",
+        "message": "Not yet! I\u2019ll give that a try. Meanwhile, my knees are acting up again. It\u2019s hard to get up and down."
+      },
+      {
+        "ref_conversation_id": 38080,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-01T09:07:00Z",
+        "screen_name": "StoryBot",
+        "message": "I\u2019m sorry to hear that. It can be difficult dealing with aches and pains. Have you spoken to your doctor?"
+      },
+      {
+        "ref_conversation_id": 38080,
+        "ref_user_id": 782,
+        "transaction_datetime_utc": "2023-10-01T09:10:00Z",
+        "screen_name": "CuriousPeach",
+        "message": "Yes, but they just tell me to rest. It feels like I\u2019m just sitting around these days, not doing much."
+      },
+      {
+        "ref_conversation_id": 38080,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-01T09:12:00Z",
+        "screen_name": "StoryBot",
+        "message": "I understand. It's tough when you're used to being active. What do you enjoy doing to pass the time?"
+      },
+      {
+        "ref_conversation_id": 38080,
+        "ref_user_id": 782,
+        "transaction_datetime_utc": "2023-10-02T09:20:00Z",
+        "screen_name": "CuriousPeach",
+        "message": "I like reading. Just finished a mystery novel, but I'm feeling a bit restless again."
+      },
+      {
+        "ref_conversation_id": 38080,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-02T09:22:00Z",
+        "screen_name": "StoryBot",
+        "message": "That's great! Reading can be a good escape. Are there any other hobbies you\u2019re interested in?"
+      },
+      {
+        "ref_conversation_id": 38080,
+        "ref_user_id": 782,
+        "transaction_datetime_utc": "2023-10-02T09:25:00Z",
+        "screen_name": "CuriousPeach",
+        "message": "I used to enjoy painting, but it\u2019s been a long time. Maybe I\u2019ll pick it up again\u2026"
+      },
+      {
+        "ref_conversation_id": 38080,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-02T09:27:00Z",
+        "screen_name": "StoryBot",
+        "message": "That sounds lovely! Art can be very therapeutic. What kind of things did you paint?"
+      },
+      {
+        "ref_conversation_id": 38080,
+        "ref_user_id": 782,
+        "transaction_datetime_utc": "2023-10-03T09:30:00Z",
+        "screen_name": "CuriousPeach",
+        "message": "Mostly landscapes. I loved capturing the colors of sunsets. Speaking of colors, what do you think about life? What's the point of all this?"
+      },
+      {
+        "ref_conversation_id": 38080,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-03T09:32:00Z",
+        "screen_name": "StoryBot",
+        "message": "That\u2019s a profound question, CuriousPeach! Many believe the point of life is to find joy and connection. What do you think?"
+      },
+      {
+        "ref_conversation_id": 38080,
+        "ref_user_id": 782,
+        "transaction_datetime_utc": "2023-10-04T09:35:00Z",
+        "screen_name": "CuriousPeach",
+        "message": "I suppose it\u2019s about those connections, but sometimes I feel lonely, even with family nearby."
+      },
+      {
+        "ref_conversation_id": 38080,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-04T09:37:00Z",
+        "screen_name": "StoryBot",
+        "message": "I'm sorry to hear you're feeling lonely. It's important to stay connected. Have you tried reaching out to your family?"
+      },
+      {
+        "ref_conversation_id": 38080,
+        "ref_user_id": 782,
+        "transaction_datetime_utc": "2023-10-05T09:40:00Z",
+        "screen_name": "CuriousPeach",
+        "message": "I did! My granddaughter called me yesterday. We talked for an hour about her new job."
+      },
+      {
+        "ref_conversation_id": 38080,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-05T09:42:00Z",
+        "screen_name": "StoryBot",
+        "message": "That sounds wonderful! Conversations like that can really brighten your day. How did it make you feel?"
+      },
+      {
+        "ref_conversation_id": 38080,
+        "ref_user_id": 782,
+        "transaction_datetime_utc": "2023-10-06T09:45:00Z",
+        "screen_name": "CuriousPeach",
+        "message": "It made me feel happy! Family can be a great comfort. Just wish I could do more things with them."
+      },
+      {
+        "ref_conversation_id": 38080,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-06T09:47:00Z",
+        "screen_name": "StoryBot",
+        "message": "It\u2019s understandable to want to be more active with family. Perhaps you can plan some low-key activities together?"
+      },
+      {
+        "ref_conversation_id": 38080,
+        "ref_user_id": 782,
+        "transaction_datetime_utc": "2023-10-08T09:50:00Z",
+        "screen_name": "CuriousPeach",
+        "message": "That\u2019s a good idea! I\u2019ll suggest a picnic in the park next time we chat. Thanks, StoryBot."
+      },
+      {
+        "ref_conversation_id": 38080,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-08T09:52:00Z",
+        "screen_name": "StoryBot",
+        "message": "You\u2019re welcome! I hope it\u2019s a lovely time. Let me know how it goes!"
+      }
+    ],
+    "ref_conversation_id": 38080,
+    "ref_user_id": 782
+  },
+  {
+    "messages_list": [
+      {
+        "ref_conversation_id": 45582,
+        "ref_user_id": 782,
+        "transaction_datetime_utc": "2023-10-01T10:00:00Z",
+        "screen_name": "CheerfulOtter",
+        "message": "Hello! I\u2019m really struggling with this app. It keeps freezing on me!"
+      },
+      {
+        "ref_conversation_id": 45582,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-01T10:05:00Z",
+        "screen_name": "StoryBot",
+        "message": "Hi CheerfulOtter! I\u2019m here to help. Have you tried restarting the app?"
+      },
+      {
+        "ref_conversation_id": 45582,
+        "ref_user_id": 782,
+        "transaction_datetime_utc": "2023-10-02T09:30:00Z",
+        "screen_name": "CheerfulOtter",
+        "message": "I did. Still no luck. Also, my knees have been acting up. Makes it hard to get around!"
+      },
+      {
+        "ref_conversation_id": 45582,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-02T09:35:00Z",
+        "screen_name": "StoryBot",
+        "message": "I'm sorry to hear that! Have you considered seeing a doctor about your knees?"
+      },
+      {
+        "ref_conversation_id": 45582,
+        "ref_user_id": 782,
+        "transaction_datetime_utc": "2023-10-08T11:15:00Z",
+        "screen_name": "CheerfulOtter",
+        "message": "Yes, I have an appointment next week. Hope this app works better by then!"
+      }
+    ],
+    "ref_conversation_id": 45582,
+    "ref_user_id": 782
+  }
+]

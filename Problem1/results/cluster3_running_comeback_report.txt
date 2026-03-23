@@ -1,0 +1,55 @@
+# Timeline Report
+
+## Conversation 1 (ID: 63988, User: 141)
+2023-09-01T08:30:00Z: NEGATIVE | Efficacy: Low | Topics: health, fitness
+2023-09-02T09:00:00Z: POSITIVE | Efficacy: Medium | Topics: health, fitness, hobbies
+2023-09-03T10:15:00Z: NEGATIVE | Efficacy: Low | Topics: work, stress
+2023-09-04T11:00:00Z: POSITIVE | Efficacy: Low | Topics: fitness, health
+2023-09-05T09:30:00Z: POSITIVE | Topics: health, work, family
+2023-09-06T12:00:00Z: POSITIVE | Efficacy: Low | Topics: fitness, health
+2023-09-07T08:45:00Z: POSITIVE | Efficacy: High | Topics: fitness, work, health
+2023-09-08T11:30:00Z: NEGATIVE | Efficacy: Medium | Topics: health, work
+2023-09-09T10:00:00Z: POSITIVE | Efficacy: High | Topics: fitness, health, work
+2023-09-10T09:15:00Z: POSITIVE | Efficacy: Medium | Topics: health, family
+2023-09-11T12:00:00Z: POSITIVE | Topics: health, family
+2023-09-12T10:15:00Z: POSITIVE | Efficacy: High | Topics: fitness, health
+2023-09-13T10:45:00Z: POSITIVE | Efficacy: High | Topics: fitness, health, family
+2023-09-14T09:00:00Z: POSITIVE | Efficacy: High | Topics: technology
+2023-09-15T11:30:00Z: POSITIVE | Efficacy: Medium | Topics: fitness, health, relationships
+
+Goals: Eat healthier, Get back into running, Take short walks, Jog a little, Run a 5K by the end of October, Run with a friend
+
+## Conversation 2 (ID: 19961, User: 141)
+2023-10-01T09:00:00Z: POSITIVE | Efficacy: Medium | Topics: fitness, health
+2023-10-01T09:20:00Z: NEGATIVE | Efficacy: Medium | Topics: fitness, health, hobbies
+2023-10-01T09:40:00Z: POSITIVE | Efficacy: Medium | Topics: fitness, health, work
+2023-10-02T10:00:00Z: POSITIVE | Efficacy: High | Topics: fitness, health, technology
+2023-10-02T10:20:00Z: POSITIVE | Efficacy: High | Topics: fitness, work, hobbies
+2023-10-03T08:45:00Z: NEGATIVE | Efficacy: Medium | Topics: fitness, health
+2023-10-03T09:05:00Z: POSITIVE | Efficacy: Medium | Topics: fitness, health
+2023-10-04T11:00:00Z: NEGATIVE | Efficacy: High
+2023-10-04T11:20:00Z: POSITIVE | Efficacy: High | Topics: fitness, health, work
+2023-10-05T10:15:00Z: POSITIVE | Efficacy: High | Topics: fitness, health
+2023-10-06T09:45:00Z: POSITIVE | Efficacy: High | Topics: fitness, work
+
+Goals: Improve fitness, Run regularly, Try yoga, Get back into running, Stick to running, Run for 20 minutes, Reignite passion for running, Do yoga, Explore flow yoga classes, Improve flexibility, Improve running performance, Commit to running
+
+## Conversation 3 (ID: 96530, User: 141)
+2023-10-01T09:15:00Z: POSITIVE | Efficacy: Medium | Topics: fitness, technology, health
+2023-10-01T09:18:00Z: NEGATIVE | Topics: fitness, work, health
+2023-10-03T08:30:00Z: POSITIVE | Efficacy: Low | Topics: fitness
+2023-10-03T08:32:00Z: POSITIVE | Efficacy: High | Topics: fitness, work
+2023-10-05T10:45:00Z: NEGATIVE | Efficacy: Medium | Topics: work, health, fitness
+2023-10-05T10:47:00Z: POSITIVE | Efficacy: High | Topics: fitness, health, work
+2023-10-08T14:20:00Z: POSITIVE | Efficacy: Medium | Topics: work, fitness, health
+2023-10-08T14:22:00Z: NEGATIVE | Efficacy: Medium | Topics: fitness, health, technology
+2023-10-10T11:30:00Z: NEGATIVE | Efficacy: Low | Topics: anxiety, stress, work
+2023-10-10T11:32:00Z: POSITIVE | Efficacy: High | Topics: work
+
+Goals: Get back into shape, Run marathons again, Complete a marathon, Jog for 15 minutes nonstop, Try strength training to help knee, Start a beginner strength training routine
+
+## Cross-Conversation Summary
+Total conversations: 3
+Emotional trajectory: POSITIVE → POSITIVE → POSITIVE
+Self-efficacy trajectory: Medium → High → High
+Total goals: 24

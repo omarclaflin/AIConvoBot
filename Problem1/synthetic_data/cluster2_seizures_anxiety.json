@@ -1,0 +1,336 @@
+[
+  {
+    "messages_list": [
+      {
+        "ref_conversation_id": 66931,
+        "ref_user_id": 648,
+        "transaction_datetime_utc": "2023-10-01T10:12:00Z",
+        "screen_name": "AnxiousPenguin",
+        "message": "Hey StoryBot! I'm having a pretty rough morning. My anxiety is acting up again."
+      },
+      {
+        "ref_conversation_id": 66931,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-01T10:13:15Z",
+        "screen_name": "StoryBot",
+        "message": "Hi AnxiousPenguin! I'm here for you. Want to talk about what's making you anxious?"
+      },
+      {
+        "ref_conversation_id": 66931,
+        "ref_user_id": 648,
+        "transaction_datetime_utc": "2023-10-01T10:15:00Z",
+        "screen_name": "AnxiousPenguin",
+        "message": "I just had a seizure last night. It's freaking me out, and I feel so lost."
+      },
+      {
+        "ref_conversation_id": 66931,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-01T10:16:00Z",
+        "screen_name": "StoryBot",
+        "message": "I'm really sorry to hear that. Have you been able to talk to your doctor about it?"
+      },
+      {
+        "ref_conversation_id": 66931,
+        "ref_user_id": 648,
+        "transaction_datetime_utc": "2023-10-01T10:18:00Z",
+        "screen_name": "AnxiousPenguin",
+        "message": "Not yet. I have an appointment next week, but waiting is so hard."
+      },
+      {
+        "ref_conversation_id": 66931,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-01T10:19:30Z",
+        "screen_name": "StoryBot",
+        "message": "That sounds really tough. Try to take it one day at a time. Is there something that helps you relax?"
+      },
+      {
+        "ref_conversation_id": 66931,
+        "ref_user_id": 648,
+        "transaction_datetime_utc": "2023-10-01T10:20:15Z",
+        "screen_name": "AnxiousPenguin",
+        "message": "I like listening to music, but it's hard to focus on it right now."
+      },
+      {
+        "ref_conversation_id": 66931,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-01T10:22:00Z",
+        "screen_name": "StoryBot",
+        "message": "Music can be a great distraction! Would you like me to suggest some calming playlists?"
+      },
+      {
+        "ref_conversation_id": 66931,
+        "ref_user_id": 648,
+        "transaction_datetime_utc": "2023-10-01T10:23:00Z",
+        "screen_name": "AnxiousPenguin",
+        "message": "Yes, please! That would really help."
+      },
+      {
+        "ref_conversation_id": 66931,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-01T10:25:00Z",
+        "screen_name": "StoryBot",
+        "message": "Here are a few calming playlists: 'Peaceful Piano', 'Chill Vibes', and 'Nature Sounds' are great for relaxation!"
+      },
+      {
+        "ref_conversation_id": 66931,
+        "ref_user_id": 648,
+        "transaction_datetime_utc": "2023-10-01T10:26:45Z",
+        "screen_name": "AnxiousPenguin",
+        "message": "Thanks, StoryBot! I will definitely check them out. Hopefully, they'll help."
+      },
+      {
+        "ref_conversation_id": 66931,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-01T10:27:45Z",
+        "screen_name": "StoryBot",
+        "message": "You're welcome! Let me know how it goes. Do you have any plans for today?"
+      },
+      {
+        "ref_conversation_id": 66931,
+        "ref_user_id": 648,
+        "transaction_datetime_utc": "2023-10-01T10:30:00Z",
+        "screen_name": "AnxiousPenguin",
+        "message": "I was going to try to go for a walk, but I'm worried what if I have another seizure."
+      },
+      {
+        "ref_conversation_id": 66931,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-01T10:31:00Z",
+        "screen_name": "StoryBot",
+        "message": "It's perfectly okay to take it easy today. Walking can be refreshing, but listen to your body!"
+      },
+      {
+        "ref_conversation_id": 66931,
+        "ref_user_id": 648,
+        "transaction_datetime_utc": "2023-10-02T09:30:00Z",
+        "screen_name": "AnxiousPenguin",
+        "message": "I didn't go for a walk after all. Just felt too anxious. I stayed inside."
+      },
+      {
+        "ref_conversation_id": 66931,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-02T09:32:00Z",
+        "screen_name": "StoryBot",
+        "message": "That's okay! Sometimes staying in feels safer. Have you tried any of the playlists yet?"
+      },
+      {
+        "ref_conversation_id": 66931,
+        "ref_user_id": 648,
+        "transaction_datetime_utc": "2023-10-02T09:33:30Z",
+        "screen_name": "AnxiousPenguin",
+        "message": "I listened to 'Chill Vibes' yesterday. It was nice, helped me feel a bit better."
+      },
+      {
+        "ref_conversation_id": 66931,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-02T09:34:45Z",
+        "screen_name": "StoryBot",
+        "message": "I'm glad to hear that! Music can be so therapeutic. Have you thought about what you\u2019ll talk about with your doctor?"
+      },
+      {
+        "ref_conversation_id": 66931,
+        "ref_user_id": 648,
+        "transaction_datetime_utc": "2023-10-02T09:36:00Z",
+        "screen_name": "AnxiousPenguin",
+        "message": "I need to tell them about the seizures for sure. It's kind of scary!"
+      },
+      {
+        "ref_conversation_id": 66931,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-02T09:37:30Z",
+        "screen_name": "StoryBot",
+        "message": "It is scary, but sharing your experience is important for your health. You got this!"
+      },
+      {
+        "ref_conversation_id": 66931,
+        "ref_user_id": 648,
+        "transaction_datetime_utc": "2023-10-02T09:39:00Z",
+        "screen_name": "AnxiousPenguin",
+        "message": "Thanks, StoryBot. I really appreciate your support!"
+      },
+      {
+        "ref_conversation_id": 66931,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-02T09:40:00Z",
+        "screen_name": "StoryBot",
+        "message": "Anytime! If you need me, I'm here. Take care of yourself, AnxiousPenguin!"
+      }
+    ],
+    "ref_conversation_id": 66931,
+    "ref_user_id": 648
+  },
+  {
+    "messages_list": [
+      {
+        "ref_conversation_id": 76922,
+        "ref_user_id": 648,
+        "transaction_datetime_utc": "2023-10-01T12:30:00Z",
+        "screen_name": "BubblyPenguin",
+        "message": "Hey StoryBot! I\u2019ve been feeling a bit overwhelmed lately. \ud83d\ude15"
+      },
+      {
+        "ref_conversation_id": 76922,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-01T12:31:00Z",
+        "screen_name": "StoryBot",
+        "message": "Hi BubblyPenguin! I'm here for you. What's been on your mind?"
+      },
+      {
+        "ref_conversation_id": 76922,
+        "ref_user_id": 648,
+        "transaction_datetime_utc": "2023-10-01T12:35:00Z",
+        "screen_name": "BubblyPenguin",
+        "message": "I\u2019ve been dealing with these seizures... It\u2019s scary. I don\u2019t really know what to do."
+      },
+      {
+        "ref_conversation_id": 76922,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-01T12:36:00Z",
+        "screen_name": "StoryBot",
+        "message": "That sounds really tough. Have you had a chance to talk to a doctor about it?"
+      },
+      {
+        "ref_conversation_id": 76922,
+        "ref_user_id": 648,
+        "transaction_datetime_utc": "2023-10-01T12:38:00Z",
+        "screen_name": "BubblyPenguin",
+        "message": "Yeah, I saw one last week. They\u2019re running some tests, but it\u2019s just hard to wait. I feel so out of control."
+      },
+      {
+        "ref_conversation_id": 76922,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-01T12:40:00Z",
+        "screen_name": "StoryBot",
+        "message": "I can imagine! Waiting can be one of the toughest parts. How\u2019s your anxiety been with all of this?"
+      },
+      {
+        "ref_conversation_id": 76922,
+        "ref_user_id": 648,
+        "transaction_datetime_utc": "2023-10-01T12:42:00Z",
+        "screen_name": "BubblyPenguin",
+        "message": "It\u2019s firing on all cylinders! \ud83d\ude29 I\u2019m finding it hard to focus on anything else but these worries."
+      },
+      {
+        "ref_conversation_id": 76922,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-01T12:43:00Z",
+        "screen_name": "StoryBot",
+        "message": "That\u2019s completely understandable! Have you tried any techniques to calm your mind?"
+      },
+      {
+        "ref_conversation_id": 76922,
+        "ref_user_id": 648,
+        "transaction_datetime_utc": "2023-10-02T13:15:00Z",
+        "screen_name": "BubblyPenguin",
+        "message": "I\u2019ve been using some breathing exercises. They help a bit, but it\u2019s not perfect."
+      },
+      {
+        "ref_conversation_id": 76922,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-02T13:17:00Z",
+        "screen_name": "StoryBot",
+        "message": "That\u2019s a great step! Every little bit helps. Do you have a support system to talk to?"
+      },
+      {
+        "ref_conversation_id": 76922,
+        "ref_user_id": 648,
+        "transaction_datetime_utc": "2023-10-02T13:20:00Z",
+        "screen_name": "BubblyPenguin",
+        "message": "Yeah, my friends are really supportive. I just hate to bother them with my issues."
+      },
+      {
+        "ref_conversation_id": 76922,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-02T13:22:00Z",
+        "screen_name": "StoryBot",
+        "message": "You\u2019re not bothering them! True friends want to help you. It's okay to lean on them."
+      },
+      {
+        "ref_conversation_id": 76922,
+        "ref_user_id": 648,
+        "transaction_datetime_utc": "2023-10-02T13:25:00Z",
+        "screen_name": "BubblyPenguin",
+        "message": "You\u2019re right. I should reach out more. I just get anxious about it."
+      },
+      {
+        "ref_conversation_id": 76922,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-02T13:28:00Z",
+        "screen_name": "StoryBot",
+        "message": "Anxiety can make it feel harder, I get that. One small step at a time. Maybe start with a text?"
+      },
+      {
+        "ref_conversation_id": 76922,
+        "ref_user_id": 648,
+        "transaction_datetime_utc": "2023-10-03T14:10:00Z",
+        "screen_name": "BubblyPenguin",
+        "message": "That sounds doable! I\u2019ll try that later today."
+      },
+      {
+        "ref_conversation_id": 76922,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-03T14:12:00Z",
+        "screen_name": "StoryBot",
+        "message": "Awesome! I\u2019m proud of you for taking that step. Keep me posted!"
+      },
+      {
+        "ref_conversation_id": 76922,
+        "ref_user_id": 648,
+        "transaction_datetime_utc": "2023-10-04T11:20:00Z",
+        "screen_name": "BubblyPenguin",
+        "message": "Hey! I texted my friend and we talked. It was so nice! \ud83d\ude0a"
+      },
+      {
+        "ref_conversation_id": 76922,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-04T11:22:00Z",
+        "screen_name": "StoryBot",
+        "message": "That\u2019s fantastic! I\u2019m so glad you reached out. How did it feel to talk about everything?"
+      },
+      {
+        "ref_conversation_id": 76922,
+        "ref_user_id": 648,
+        "transaction_datetime_utc": "2023-10-05T10:40:00Z",
+        "screen_name": "BubblyPenguin",
+        "message": "It felt really relieving. I shared my worries, and they listened. It helped me feel less alone."
+      },
+      {
+        "ref_conversation_id": 76922,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-05T10:42:00Z",
+        "screen_name": "StoryBot",
+        "message": "That\u2019s a beautiful thing! Support really makes a difference. What\u2019s next for you?"
+      },
+      {
+        "ref_conversation_id": 76922,
+        "ref_user_id": 648,
+        "transaction_datetime_utc": "2023-10-06T15:00:00Z",
+        "screen_name": "BubblyPenguin",
+        "message": "I need to keep up with my doctor\u2019s appointments and tests. I\u2019m just trying not to stress about it too much."
+      },
+      {
+        "ref_conversation_id": 76922,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-06T15:02:00Z",
+        "screen_name": "StoryBot",
+        "message": "That\u2019s the spirit! Just take it one day at a time. How are you feeling today?"
+      },
+      {
+        "ref_conversation_id": 76922,
+        "ref_user_id": 648,
+        "transaction_datetime_utc": "2023-10-07T10:30:00Z",
+        "screen_name": "BubblyPenguin",
+        "message": "Honestly? A bit better! Just trying to stay positive. \u2728"
+      },
+      {
+        "ref_conversation_id": 76922,
+        "ref_user_id": 1,
+        "transaction_datetime_utc": "2023-10-07T10:32:00Z",
+        "screen_name": "StoryBot",
+        "message": "I\u2019m thrilled to hear that! Keep focusing on the positives. You\u2019ve got this! \ud83c\udf08"
+      }
+    ],
+    "ref_conversation_id": 76922,
+    "ref_user_id": 648
+  }
+]
